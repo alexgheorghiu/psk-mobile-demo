@@ -6,33 +6,32 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32df2238-4f62-4362-abc3-fc610ce88453" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/cardinal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/octopus.json" beforeDir="false" afterPath="$PROJECT_DIR$/octopus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardinal/cardinal.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/cardinal/cardinal.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardinal/p-6d393e53.entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/menu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/balance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/controllers/MainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/controllers/MainController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-button/psk-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-button/psk-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-card/psk-card.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-card/psk-card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-mobile/psk-mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/mobile-banking-theme/components/psk-mobile/psk-mobile.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,9 +42,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cardinal" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600681647915</updated>
-      <workItem from="1600681649019" duration="19488000" />
+      <workItem from="1600681649019" duration="35815000" />
     </task>
     <servers />
   </component>
@@ -77,6 +77,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1063" y="274" width="424" height="493" key="FileChooserDialogImpl" timestamp="1600770701015">
+      <screen x="0" y="0" width="2560" height="1032" />
+    </state>
+    <state x="1063" y="274" width="424" height="493" key="FileChooserDialogImpl/0.0.2560.1032@0.0.2560.1032" timestamp="1600770701015" />
     <state x="568" y="216" width="956" height="695" key="dock-window-1" timestamp="1600685097657">
       <screen x="0" y="0" width="2560" height="1032" />
     </state>
@@ -85,5 +89,9 @@
       <screen x="0" y="0" width="2560" height="1032" />
     </state>
     <state x="346" y="202" width="700" height="512" key="find.popup/0.0.2560.1032@0.0.2560.1032" timestamp="1600698443804" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1600765334390">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1600765334390" />
   </component>
 </project>

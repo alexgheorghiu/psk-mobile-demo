@@ -8,10 +8,10 @@
   },
   "pages": [
     {
-      "name": "Home",
-      "path": "/home",
-      "icon": "fa-home",
-      "pageSrc": "home.html"
+      "name": "Balance"
+    },
+    {
+      "name": "Payments"
     }
   ]
 }
